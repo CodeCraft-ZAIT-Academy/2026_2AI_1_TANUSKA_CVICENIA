@@ -1,0 +1,23 @@
+.header{
+    background-color: grey;
+    
+}
+.number{
+    text-align: right;
+}
+table, th, td{
+    border: 1px solid;
+}
+table{
+    background-color: greenyellow;
+}
+tr:nth-last-child(even){
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+    text-align: right;
+}
+.didnt{
+    text-align: center;
+}  
