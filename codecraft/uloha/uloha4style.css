@@ -1,0 +1,55 @@
+.thumbnail1 {
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.search-bar {
+    font-size: 20px;
+    margin-left: 12px;
+
+}
+
+img {
+    border: cover;
+}
+
+.thumbnail2 {
+    width: 200px;
+    height: 200px;
+}
+
+.thumbnail3 {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.search-bar3 {
+    font-size: 20px;
+    margin-left: 12px;
+}
+.button {
+    border-radius: 15px;
+    background-color: lightskyblue;
+}
+.thumbnail4 {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    
+}
+.search-bar2 {
+    font-size: 20px;
+    margin-left: 12px;
+    border:none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+.tweet-box {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 12px;
+}
