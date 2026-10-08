@@ -35,3 +35,15 @@
 .video-preview:hover, .video-preview2:hover, .video-preview3:hover{
     background-color: gainsboro;
 }
+.video-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 40px;
+}
+.mpfp{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
